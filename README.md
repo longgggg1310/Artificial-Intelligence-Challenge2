@@ -10,7 +10,7 @@ Greedy Search will be used to choose the best words to accurately define the ima
 
 For training our LSTM model, we predefine our label and target text. For example, if the caption is “a man in a black shirt is standing in front of a crowd.”, our label and target would be as follows –
 
-Label – [ , A,  man,  in,  a, black,  shirt, is ,standing, in ,front, of, a, crowd  . ] 
+Label – [ , A,  man,  in,  a, black,  shirt, is ,standing, in ,front, of, a, crowd  . ] </br >
 Target – [A,  man,  in,  a, black,  shirt, is ,standing, in ,front, of, a, crowd,  ., ]
 
 
