@@ -15,5 +15,7 @@ Target – [A,  man,  in,  a, black,  shirt, is ,standing, in ,front, of, a, cro
 
 
 ## About the dataset
+Various datasets are utilized for preparing, testing, and assessment of the picture subtitling strategies. The datasets contrast in different viewpoints, for example, the quantity of pictures, the quantity of subtitles per picture, organization of the inscriptions, and picture size. Three datasets: Flickr8k, Flickr30k, and MS COCO Dataset are prominently utilized. </br >
 
+In the Flickr8k dataset, each picture is related with five unique inscriptions that portray the elements and occasions portrayed in the picture that were gathered. By partner each picture with numerous, autonomously created sentences, the dataset catches a portion of the phonetic assortment that can be utilized to depict a similar picture.
 
